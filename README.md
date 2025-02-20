@@ -1,5 +1,7 @@
 ## User Management
 
+note: tolong buat organization terlebih dahulu lewat postman
+
 ### Feature
 
 - Member CRUD, search LIKE name
